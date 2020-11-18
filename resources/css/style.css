@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 3rem;
+}
+#copyright {
+    color: gray;
+    float: right;
+    font-size: 20px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+img {
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.links, a {
+    text-align: center;
+    color: aquamarine;
+    font-style: italic;
+}
+a:hover {
+    color: gold;
+}
+a:active {
+    color: red
+}
+video {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;   
+}
+
+
+
